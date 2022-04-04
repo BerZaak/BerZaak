@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **berzaakpro@gmail.com**
 
-- ⚡ Fun fact **Bats are the only mammal that can actually fly.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/berzaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berzaak" height="30" width="40" /></a>
